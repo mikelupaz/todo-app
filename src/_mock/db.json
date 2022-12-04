@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mikel",
+      "password": "user1",
+      "username": "mikel@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Mikel2",
+      "password": "user2",
+      "username": "mikel2@email.com"
+    }
+  ],
+  "goals": [
+    {
+      "description": "<p>test</p>",
+      "schedule": "2022-12-05T16:01:00.000Z",
+      "title": "fdsf-update",
+      "id": 1,
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "remark": "<p>fdfdsf</p>",
+      "goalId": 1,
+      "createdAt": "2022-12-04T19:13:20.517Z",
+      "id": 1
+    }
+  ]
+}
